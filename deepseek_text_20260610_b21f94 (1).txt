@@ -5,3 +5,8 @@ This is a clean email.
 From spammer@fake.com Tue Jun 10 11:00:00 2025
 Subject: WINNER!!
 You won $1,000,000!!!
+
+
+From Ramyoz
+Hi SUBHAM,
+Jyoti from Ramyoz has sent you a message on your recent application for a web development internship.
