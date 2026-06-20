@@ -1,0 +1,7 @@
+From user@example.com Tue Jun 10 10:00:00 2025
+Subject: Test email
+This is a clean email.
+
+From spammer@fake.com Tue Jun 10 11:00:00 2025
+Subject: WINNER!!
+You won $1,000,000!!!

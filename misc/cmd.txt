@@ -1,0 +1,21 @@
+deactivate
+python -m venv venv
+venv\Scripts\activate
+
+python -m pip install beautifulsoup4
+python -m pip install pandas
+python -m pip install scikit-learn
+python -m pip install fastapi
+python -m pip install uvicorn
+python -m pip install python-multipart
+python -m pip install pydantic
+python -m pip install streamlit
+pip install mailbox
+
+
+python -m pip install --upgrade pip
+
+
+python -m pip install -r requirements.txt
+
+streamlit run app.py
